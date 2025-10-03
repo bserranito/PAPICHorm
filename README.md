@@ -10,9 +10,13 @@ Sheet Descriptions
 Contains contemporary monitoring data, including:
 
 Survey ID (linked to date)
+
 Sampling coordinates
+
 Water height relative to tide
+
 Depth recorded by dive computer
+
 Size (cm) of each individual observed
 
 -**Historical_data_size**
